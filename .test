@@ -1,3 +1,14 @@
 {
-  "global": {}
+  "global": {
+    "test": {
+      "value": "434",
+      "description": "fdfsdfsf",
+      "type": "sizing"
+    },
+    "test345": {
+      "value": "234",
+      "description": "dfgdfgdfg",
+      "type": "sizing"
+    }
+  }
 }
